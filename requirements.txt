@@ -1,0 +1,6 @@
+elevenlabs
+python-dotenv
+ffmpeg
+ffmpeg-python
+streamlit
+
